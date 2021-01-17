@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-//Branched in covidD
+//Branched in covidD - Pull request dev
 import { Cards, Chart, CountryPicker } from "./components";
 import styles from "./App.module.css";
 import { fetchData } from "./api";
